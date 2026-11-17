@@ -8,5 +8,6 @@ Cada carpeta correspon a un sprint i conté els fitxers de codi i la documentaci
 
 - **S2 – SQL:** Consultes SQL, gestió de bases de dades relacionals i modelatge de dades amb MySQL.
 - **S3 – BigQuery:** Treball amb dades al núvol, arquitectura Bronze–Silver–Gold, transformació de dades i consultes analítiques.
+- **S4 – BigQuery avançat:** Optimització de consultes amb particions i clustering, vistes materialitzades, CTE, funcions de finestra, UNNEST i UDF. Creació d'un dashboard interactiu amb Looker Studio.
 
 *El repositori s'anirà actualitzant a mesura que avanci la formació.*
