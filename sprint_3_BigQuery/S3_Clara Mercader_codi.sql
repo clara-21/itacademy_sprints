@@ -1,5 +1,6 @@
 -- IT ACADEMY - SPRINT 3 
 -- Nom alumne: Clara Mercader Garcia
+-- Revisió P2P: Laura Juan
 -- Data: 10/11/2026
 
 ---------------------------------

@@ -38,6 +38,7 @@ FROM `sprint3-analytics-clara.sprint3_silver.transactions_recent`;
 CREATE OR REPLACE TABLE `sprint3-analytics-clara.sprint3_gold.fact_transactions_optimized` 
   PARTITION BY DATE(timestamp)
   CLUSTER BY business_id
+  OPTIONS (require_partition_filter = TRUE)
 AS(
   SELECT *
   FROM `sprint3-analytics-clara.sprint3_silver.transactions_recent`
